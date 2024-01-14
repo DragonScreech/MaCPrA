@@ -124,7 +124,7 @@ const Home = () => {
                         I feel I will be a better coach for my peers in 7th grade (as opposed to experienced adult math teachers) because I have gone through this CBE first hand and can explain Algebra 1 concepts in a way that will resonate with my fellow 7th graders. 
                         As a software programmer, I love programming in React, Python and other languages and have developed products for Tagore society (a 501(c)(3) non profit org) as well as for Grand Staff Society that promotes learning and performance of Nobel Laureate R.N Tagore’s songs and also hosts many  youth ensembles in other genres of Indian music. 
                         In my free time, I love playing and practicing violin. I have been successfully placed in Region Orchestra this year and have also completed Level 2 program requirements of Royal Conservatory of Music (RCM). 
-                        I enjoy practicing Taekwondo and aspire to play competitively to win a Black Belt. I also play water polo and look forward to participating in Junior Olympics in the future. 
+                        I enjoy practicing Taekwondo and aspire to play competitively to win a Black Belt. I also play water polo and look forward to participating in Junior Olympics in the future. Contact me at dragon.screech76@gmail.com or text 8053045859.
 
             </p>
                   </div>
